@@ -10,7 +10,7 @@ const config = {
       precompress: false,
     }),
     paths: {
-      base: "/cossacks-replay-parser",
+      base: "/cossacks-replay-parser-svelte",
     }, 
   },
 };
