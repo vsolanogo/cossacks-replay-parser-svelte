@@ -2,5 +2,5 @@
 
  **Live demo (runs offline in your browser):**
 
- https://vsolanogo.github.io/cossacks-replay-parser/
+ https://vsolanogo.github.io/cossacks-replay-parser-svelte/
 
